@@ -31,7 +31,7 @@ h3 {
 
 p {font-family: tahoma;}
 
-div.project {
+.project {
     margin: 20px;
     padding: 5px;
     color:#E4FDE1;
@@ -42,7 +42,7 @@ div.project {
     text-align: left;
 }
 
-div.project img {
+.project img {
     align:center;
     border-size:1px;
     border:solid;
@@ -51,7 +51,7 @@ div.project img {
     margin: 10px;
 }
 
-div.title {
+.title {
     font-family:tahoma;
     font-size: 10pt;
     text-align: left;
@@ -62,7 +62,7 @@ div.title {
     margin: 10px;
 }
 
-div.status {
+.status {
     font-family: tahoma;
     font-size: 12pt;
     font-style: italic;
